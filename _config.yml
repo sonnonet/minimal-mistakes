@@ -11,9 +11,11 @@ title                    : "RaspberryPi-IoT-KIT"
 title_separator          : "-"
 name                     : "Sonnonet"
 description              : "with RaspberryPi Sensor."
-url                      : "https://sonnonet.github.io"
+#url                      : "https://sonnonet.github.io"
+url                      : "http://localhost:4000/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sonnonet/sonnonet.github.io"
+#repository               : "sonnonet/sonnonet.github.io"
+repository               : "http://localhost:4000/"
 teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -47,6 +49,8 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+header:
+   image: "/assets/images/500x300.png"
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -78,10 +82,10 @@ analytics:
 # Site Author
 author:
   name             : "Sonnonet"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  avatar           : "/assets/images/sonnonet-ci_1.png"
+  bio              : "라즈베리파이 IoT 센서 키트"
   location         : "경기도/부천"
-  email            : korea.sonnonet@gmail.com
+  email            : "korea.sonnonet@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "sonnonet"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,6 +115,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -241,6 +246,24 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
+
+ # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments:  true
+      share: true
+ # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
