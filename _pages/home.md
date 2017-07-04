@@ -13,7 +13,7 @@ feature_row:
     alt: "스마트 IoT 허브 "
     title: "스마트 IoT Hub"
     excerpt: "무선센서 네트워크의 데이터를 안정적으로 수집저장하여, 클라우드서버 시스템과 연동하는 스마트 IoT허브 시스템입니다"
-    url: "https://github.com/sonnonet.github.io/_pages/iothub/"
+    url: "https://sonnonet.github.io/_pages/iothub/"
     btn_label: "More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
