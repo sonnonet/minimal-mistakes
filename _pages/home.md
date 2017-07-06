@@ -14,11 +14,11 @@ feature_row:
     title: "스마트 IoT Hub"
     excerpt: "무선센서 네트워크의 데이터를 안정적으로 수집저장하여, 클라우드서버 시스템과 연동하는 스마트 IoT허브 시스템입니다"
     url: "https://sonnonet.github.io/_pages/iothub/"
-    btn_label: "More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    btn_label: "Learn More"
+  - image_path: /assets/images/okplug.png
+    alt: "Wifi-plug"
+    title: "W-Fi 스마트 플러그 KIT"
+    excerpt: "스마트플러그와 라즈베리파이를 이용하여 가정집내에 전력량 측정."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
