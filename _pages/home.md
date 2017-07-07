@@ -14,7 +14,7 @@ feature_row:
     title: "스마트IoT 허브"
     excerpt: "무선센서 네트워크의 데이터를 안정적으로 수집/저장하여, 클라우드 서버시스템과 연동하는 스마트 IoT허브 시스템"
 #    url: "http://localhost:4000/iothub"
-    url: "http://sonnonet/sonnonet.github.io/iothub"
+    url: "https://sonnonet.github.io/iothub"
     btn_label: "Learn More"
   - image_path: /assets/images/okplug_1.png
     alt: "sonnonet"
