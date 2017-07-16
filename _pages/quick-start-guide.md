@@ -1,6 +1,6 @@
 ---
-permalink: /quick-start-guide/
-title: "Raspberry Iot Sensor Kit"
+permalink: /quick-start/
+title: "AI Data colletion by IoT Sensor Kit"
 ---
 
 # RaspberrySensorKit 설치
@@ -16,11 +16,11 @@ title: "Raspberry Iot Sensor Kit"
 - Hbase-1.0.1.1
 - influxdb-1.2.0
 
-### 웹 GUI 
+### 웹 GUI SW
 - OpenTSDB-1.2.0
 - grafana-4.1.2
 
-### 임베디드 
+### 임베디드 SW
 - tinyos.2.1.2
 
 ### Middleware 
