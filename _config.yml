@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "ko"
-title                    : "RaspberryPi-IoT-KIT"
+title                    : "Data Collection Kit for AI "
 title_separator          : "-"
 name                     : "Sonnonet"
-description              : "with RaspberryPi Sensor."
-url                      : "https://sonnonet.github.io"
+description              : "AI coming from IoT Kit Sensor."
+url                      : "http://sonnonet.github.io"
 #url                      : "http://localhost:4000/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sonnonet/sonnonet.github.io"
@@ -84,7 +84,7 @@ author:
   name             : "Sonnonet"
   avatar           : "/assets/images/sonnonet-ci_1.png"
   bio              : "라즈베리파이 IoT 센서 키트"
-  location         : "경기도/부천"
+  location         : "Kyunggi/Bucheon"
   email            : "korea.sonnonet@gmail.com"
   uri              :
   bitbucket        :
