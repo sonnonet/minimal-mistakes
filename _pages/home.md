@@ -7,8 +7,8 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-  excerpt: 'Sonnonet IoT Collection for AI <br /> <small><a href="https://github.com/sonnonet/sonnonet.github.io/releases/tag/4.4.1">Latest release v1.0.1</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'feature_row:
-
+  excerpt: 'Sonnonet IoT Collection for AI <br /> <small><a href="https://github.com/sonnonet/sonnonet.github.io/releases/tag/4.4.1">Latest release v1.0.1</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+feature_row:
   - image_path: /assets/images/iothub.png
     alt: "sonnonet"
     title: "스마트 IoT 허브"
