@@ -1,6 +1,9 @@
 ---
-permalink: /quick-start/
+
 title: "AI Data colletion by IoT Sensor Kit"
+permalink: /quick-start-guide/
+excerpt: "How to quickly install and setup AI Data collection by IoT Sensor Kit."
+
 ---
 
 # RaspberrySensorKit 설치
