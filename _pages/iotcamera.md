@@ -1,23 +1,20 @@
 ---
-title: "스마트 IoT 플러그"
+title: "스마트 IoT 카메라"
 header:
-   image: /assets/images/okplug_2.png
+   image: /assets/images/rpc.png
    cation: "Made by : [**Sonnonet**](http://www.sonnonet.com)"
-permalink: /wplug/
+permalink: /iotcamera/
 
 layouts_gallery:
-  - url: /assets/images/okplug_air.png
-    image_path: /assets/images/okplug_air.png
+  - url: /assets/images/iotcamera_1.png
+    image_path: /assets/images/iotcamera_1.png
     alt: "installtion of airconditioner"
-  - url: /assets/images/okplug_wash.png
-    image_path: /assets/images/okplug_wash.png
+  - url: /assets/images/iotcamra_2.png
+    image_path: /assets/images/iotcamera_2.png
     alt: "installtion of washing machine"
-  - url: /assets/images/okplug_micro.png
-    image_path: /assets/images/okplug_micro.png
-    alt: "installtion of microwave"
-  - url: /assets/images/okplug_tsdb.png
-    image_path: /assets/images/okplug_tsdb.png
-    alt: "installtion of microwave"
+#  - url: /assets/images/okplug_micro.png
+#    image_path: /assets/images/okplug_micro.png
+#    alt: "installtion of microwave"
 last_modified_at: 2017-02-14T14:28:13-05:00
 ---
 
