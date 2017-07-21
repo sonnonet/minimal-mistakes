@@ -6,10 +6,10 @@ header:
 permalink: /iotcamera/
 
 layouts_gallery:
-  - url: /assets/images/iotcamera_1.png
-    image_path: /assets/images/iotcamera_1.png
+  - url: /assets/images/iotcamera_1.jpg
+    image_path: /assets/images/iotcamera_1.jpg
     alt: "installtion of airconditioner"
-  - url: /assets/images/iotcamra_2.png
+  - url: /assets/images/iotcamera_2.png
     image_path: /assets/images/iotcamera_2.png
     alt: "installtion of washing machine"
 #  - url: /assets/images/okplug_micro.png
@@ -18,9 +18,23 @@ layouts_gallery:
 last_modified_at: 2017-02-14T14:28:13-05:00
 ---
 
-스마트 IoT 플러그와 라즈베리파이를 통해 가정에서 사용되는 전자기기에 전력량을 체크할수 있습니다, 또는 프로그램밍과 다른 센서를 통해 IF ~~~ Then ~~~ 상황에 대한 시뮬레이션이 가능합니다, OpenAPI 제공으로 누구나 손쉽게 프로그래밍을 지원합니다.
+저가격 임베디드 하드웨어로 구성된 Pi 카메라와 라즈베리파이 게이트웨이를 통해 특정 타겟에 이미지를 촬영 후 서버로 전송하여 저장된 이미지로 부터 구글 Vision API를 이용하여 정보를 추출하는 어플리케이션
 
-{% include gallery id="layouts_gallery" caption="Examples of installtion `airconditioner`, `washing machine`, and `microwave`." %}
+## 기능
+
+```
+    - 라즈베리파이 카메라 이미지 시간별 촬영 기능
+    - 라즈베리파이 카메라 이미지 네트워크 전송 기능 
+    - 년/일/시간별 이미지 저장기능 
+    - 저장된 이미지 분류/히스토리 기능
+    - 촬영된 이미지로 부터 특정 정보 문자 추출하는 기능
+    - 이미지 서버 스케쥴링 기능
+    - 라즈베리파이 외부접속 자동 DDNS 기능
+```
+
+{% include gallery id="layouts_gallery" caption="Examples of installtion `airconditioner`, `powermeter`, and `totalpowermeter`." %}
 
 [Install]({{ "/quick-start-guide/" | absolute_url }}){: .btn .btn--success .btn--large}
+
+
 

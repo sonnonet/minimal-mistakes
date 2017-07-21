@@ -29,6 +29,7 @@ feature_row:
     alt: "sonnonet"
     title: "스마트 IoT 카메라"
     excerpt: "라즈베리파이 카메라센서를 이용하여 타겟의 이미지를 서버로 전송하고 저장된 이미지로 부터 특정 정보를 추출하는 스마트 카메라 시스템 "
+#    url: "http://localhost:4000/iotcamera/"
     url: "https://sonnonet.github.io/iotcamera"
     btn_label: "Learn More"
 
