@@ -1,9 +1,12 @@
 ---
 title: "스마트 IoT 허브"
+header:
+  image: /assets/images/iothub.png
+  caption: "Made by : [**Sonnonet**](http://www.sonnnonet.com)"
 permalink: /iothub/
 excerpt: "무선센서네트워크의 데이터를 안정적으로 수집 저장하여, 클라우드 서버 시스템과 연동하는 스마트 IoT 시스템입니다"
-last_modified_at: 2017-07-05T23:44:22
 
+last_modified_at: 2017-07-13T14:44:22
 ---
 
 제품명: 스마트 IoT 허브(Smart IoT Hub)
@@ -11,6 +14,13 @@ last_modified_at: 2017-07-05T23:44:22
 ## 목적
 
 - 무선센서 네트워크의 데이터를 안정적으로 수집 저장하여, 클라우드 서버 시스템과 연동하는 스마트 IoT 허브시스템 입니다.
+
+## 설치 링크
+
+```
+http://iotea.iptime.org:3000/iothub.egg
+--현재 준비중--
+```
 
 ## 지원 무선 센서
 

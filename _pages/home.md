@@ -13,7 +13,7 @@ feature_row:
     alt: "sonnonet"
     title: "스마트 IoT 허브"
     excerpt: "무선센서 네트워크의 데이터를 안정적으로 수집/저장하여, 클라우드 서버시스템과 연동하는 스마트 IoT허브  시스템"
-#    url: /_pages/iothub/
+#    url: "http://localhost:4000/iothub/"
     url: "https://sonnonet.github.io/iothub"
     btn_label: "Learn More"
     
@@ -21,7 +21,8 @@ feature_row:
     alt: "sonnonet"
     title: "스마트 IoT 플러그"
     excerpt: "와이파이 스마트 플러그의 데이터를 수집/저장하여, 개별전력량을 웹 GUI로 보여주는 스마트 플러그 시스템"
-    url: "https://sonnonet.github.io/iothub"
+    url: "https://sonnonet.github.io/wplug"
+#    url: "http://localhost:4000/wplug/"
     btn_label: "Learn More"
 
   - image_path: /assets/images/rpc.png
